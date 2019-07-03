@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirShopApi", "AirShopApi\AirShopApi.csproj", "{10470CD5-355F-4C84-A906-76A6D7BDC637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10470CD5-355F-4C84-A906-76A6D7BDC637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10470CD5-355F-4C84-A906-76A6D7BDC637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10470CD5-355F-4C84-A906-76A6D7BDC637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10470CD5-355F-4C84-A906-76A6D7BDC637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A869416F-0BFF-403F-BDD2-75239B1B129E}
+	EndGlobalSection
+EndGlobal
